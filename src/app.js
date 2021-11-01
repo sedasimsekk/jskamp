@@ -1,1 +1,2 @@
-console.log("merhaba kodlama.io")
+console.log("")
+var dolar=10
