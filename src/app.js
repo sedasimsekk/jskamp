@@ -1,2 +1,2 @@
 console.log("")
-var dolar=10
+var dolar=0
